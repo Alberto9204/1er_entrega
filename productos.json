@@ -1,22 +1,42 @@
 [
   {
-    "id": 1
+    "id": 1,
+    "timestamp": "",
+    "nombre": "bulbasaur",
+    "descripcion": "planta",
+    "codigo": 1,
+    "foto":"bulbasaur.jpg",
+    "precio": 200,
+    "stock":50
   },
   {
-    "id": 3
+    "id": 2,
+    "timestamp": "",
+    "nombre": "charmander",
+    "descripcion": "fuego",
+    "codigo": 4,
+    "foto":"charmander.jpg",
+    "precio": 200,
+    "stock":50
   },
   {
-    "id": 4
+    "id": 2,
+    "timestamp": "",
+    "nombre": "charmander",
+    "descripcion": "fuego",
+    "codigo": 4,
+    "foto":"charmander.jpg",
+    "precio": 200,
+    "stock":50
   },
   {
-    "id": 5
-  },
-  {
-    "timestamp": "2022-11-22T02:45:17.296Z",
-    "id": 6
-  },
-  {
-    "timestamp": "2022-11-22T02:45:18.594Z",
-    "id": 7
+    "id": 2,
+    "timestamp": "",
+    "nombre": "squirtle",
+    "descripcion": "agua",
+    "codigo": 7,
+    "foto":"squirtle.jpg",
+    "precio": 200,
+    "stock":50
   }
 ]
